@@ -1,4 +1,4 @@
-dash
-dash_bootstrap_components
-moviepy
-openai-whisper
+dash==2.9.3
+dash-bootstrap-components==1.4.1
+moviepy==1.0.3
+openai-whisper==20230314
